@@ -1,7 +1,3 @@
-![demo](./assets/demo.gif)
-
-> Simple AI chatbot built using chatterbox
-
 # AI-chatbot
 
 ---

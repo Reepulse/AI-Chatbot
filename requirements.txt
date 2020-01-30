@@ -1,0 +1,2 @@
+ChatterBot == 1.0.5
+textdistance == 4.1.5

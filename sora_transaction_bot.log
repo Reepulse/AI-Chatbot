@@ -1,0 +1,30 @@
+INFO:chatterbot.chatterbot:Not processing the statement using DepositWithdrawAdapter
+INFO:chatterbot.chatterbot:Beginning search for close text match
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: Angelium will provide you cryptocurrency trading platform, virtual reality, chatting, gaming, fashion, shopping, education, music and various other forms of entertainment. 0.02
+INFO:chatterbot.chatterbot:Similar text found: Angelium offering you a platform where you can do anything you want to do. 0.05
+INFO:chatterbot.chatterbot:Similar text found: Angelium is giving you chance to explore anything and everything. 0.06
+INFO:chatterbot.chatterbot:Similar text found: Angelium can do anything and everything. 0.1
+INFO:chatterbot.chatterbot:Similar text found: Hi 1.0
+INFO:chatterbot.chatterbot:Using "Hi" as a close match to "hi" with a confidence of 1.0
+INFO:chatterbot.chatterbot:Selecting response from 4 optimal responses.
+INFO:chatterbot.response_selection:Selecting a response from list of 4 options.
+INFO:chatterbot.chatterbot:Response selected. Using "Hello"
+INFO:chatterbot.chatterbot:BestMatch selected "Hello" as a response with a confidence of 1.0
+INFO:chatterbot.chatterbot:Not processing the statement using DepositWithdrawAdapter
+INFO:chatterbot.chatterbot:Beginning search for close text match
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Using "this is gagn" as a close match to "this is gagn" with a confidence of 0
+INFO:chatterbot.chatterbot:No responses found. Generating alternate response list.
+INFO:chatterbot.chatterbot:No known response to the input was found. Selecting a random response.
+INFO:chatterbot.chatterbot:BestMatch selected "i am sorry but i didn't really get your point." as a response with a confidence of 0
+INFO:chatterbot.chatterbot:Not processing the statement using DepositWithdrawAdapter
+INFO:chatterbot.chatterbot:Beginning search for close text match
+INFO:chatterbot.chatterbot:Processing search results
+INFO:chatterbot.chatterbot:Similar text found: who are you? 0.87
+INFO:chatterbot.chatterbot:Similar text found: How are you? 0.96
+INFO:chatterbot.chatterbot:Using "How are you?" as a close match to "how are you" with a confidence of 0.96
+INFO:chatterbot.chatterbot:Selecting response from 1 optimal responses.
+INFO:chatterbot.response_selection:Selecting a response from list of 1 options.
+INFO:chatterbot.chatterbot:Response selected. Using "I'm Fine how about you."
+INFO:chatterbot.chatterbot:BestMatch selected "I'm Fine how about you." as a response with a confidence of 0.96

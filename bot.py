@@ -11,7 +11,7 @@ import DepositWithdrawAdapter
 import RatcliffObershelp as ratcliffobershelp
 
 
-logging.basicConfig(filename='sora_bot.log',level=logging.INFO)
+logging.basicConfig(filename='chatbot_bot.log',level=logging.INFO)
 
 d_response=["i am in beta version, i don't know a lot.",
 "Maybe you can ask something else.",
@@ -55,10 +55,10 @@ def final_response(text):
 		return response
 
 
-print("\n\n\n\n you can talk to sora and type exit to quit.\n\n")
+print("\n\n\n\n you can talk to chatbot and type exit to quit.\n\n")
 while True:
     input_text = input("you : ")
     if(input_text == "exit"):
-        print("sora : Nice to meet you")
+        print("chatbot : Nice to meet you")
         break
-    print("sora :", final_response(input_text),"\n")
+    print("chatbot :", final_response(input_text),"\n")

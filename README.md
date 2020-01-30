@@ -6,6 +6,8 @@ Chatbots are getting amazing, they are now taking over the world. They provide a
 
 Building chatbots are now just a piece of cake and this repository shows how you can build a fully featured chatbot with minimal effort. Using the amazing [chatterbox](https://github.com/gunthercox/ChatterBot) engine, I have built a simple chatbot to chat with, using openly available conversational statements.
 
+**Note:** Requires Python 3.5+ 
+
 ---
 
 ## Usage
